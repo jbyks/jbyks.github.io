@@ -1,4 +1,10 @@
-/* header */
+
+/* Global */
+a:hover {
+color: rgba(255, 216, 25, 0.88)
+}
+
+/* Header */
 
 .header{
   padding-top: 2%;
@@ -6,6 +12,7 @@
 
 .header h1 a{
   color: black;
+  text-decoration: none;
 }
 
 .header ul {
